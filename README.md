@@ -2,7 +2,7 @@
 
 ### **SOFTWARE DEVELOPER at SWIFTANT | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
 
-![Header Image](![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png/1500x500)
+(![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png))
 
 ## **About Me**
 
