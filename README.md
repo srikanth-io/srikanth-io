@@ -33,9 +33,8 @@ I completed B.E in Computer Science Engineering from [Info Institute of Engineer
 
 ### **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?srikanth-io=your-srikanth-io&show_icons=true&theme=dark)
+[![srikanth sankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=srikanth-io&show_icons=true&theme=dark)](https://github.com/srikanth-io/github-readme-stats&show_icons=true&theme=dark)
 
 ### **Language Stats**
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?srikanth-io=your-srikanth-io&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-io&hide_progress=true&theme=dark)](https://github.com/srikanth-io/github-readme-stats&theme=dark)
