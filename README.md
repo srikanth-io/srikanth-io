@@ -1,4 +1,6 @@
-# **Hello, I'm [Srikanth Sankar](https://srikanthsankar.netlify.app/)**
+
+# **Hi there, I'm [Srikanth Sankar](https://srikanthsankar.netlify.app/)**
+
 
 ![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png)
 
@@ -10,19 +12,22 @@ I completed B.E in Computer Science Engineering from [Info Institute of Engineer
 
 ### **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)   ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;       ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) &nbsp;        ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    &nbsp;   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)     &nbsp;  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)     &nbsp;  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) &nbsp;
 
-* **JavaScript**: Proficient in using JavaScript for front-end and back-end development
-* **Java**: Knowledgeable in using Java for Android app development and enterprise software development
+### **Databases**
 
-### **Technologies**
-
-* **Cloud Platforms**: Experienced in using AWS and Azure for cloud-based solutions
-* **Databases**: Proficient in using MySQL, MongoDB, and PostgreSQL for database management
-* **Agile Methodologies**: Knowledgeable in using Scrum and Kanban for project management
+![OracleDB](https://img.shields.io/badge/OracleDB-1572B6?style=for-the-badge&logo=oracledb&logoColor=F7DF1E)    &nbsp;    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)   &nbsp;     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)      &nbsp;
 
 ### **Tools**
 
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) &nbsp;  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp; ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+### **Coonect with me**
+
+<p align="center">
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/srikanth-io/)
+
+</p>
 <<<<<<< HEAD
 
 * **Version Control**: Proficient in using Git and SVN for version control
