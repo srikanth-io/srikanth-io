@@ -8,9 +8,10 @@ I completed B.E in Computer Science Engineering from [Info Institute of Engineer
 
 ## **Skills**
 
-### **Programming Languages**
+### **Languages**
 
-* **Python**: Experienced in developing scalable and efficient solutions using Python
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)   ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 * **JavaScript**: Proficient in using JavaScript for front-end and back-end development
 * **Java**: Knowledgeable in using Java for Android app development and enterprise software development
 
