@@ -1,10 +1,10 @@
 
 # **Hi there, I'm [Srikanth Sankar](https://srikanthsankar.netlify.app/)**
+### **Software Developer at [SWIFTANT](www.swiftant.com) | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
 
 
 ![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png)
 
-### **Software Developer at [SWIFTANT](www.swiftant.com) | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
 
 
 ## **Skills**
