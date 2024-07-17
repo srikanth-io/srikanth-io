@@ -1,12 +1,10 @@
+# **Hello, I'm [Srikanth Sankar](https://srikanthsankar.netlify.app/)**
 
 ![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png)
 
-# **Hello, I'm **Srikanth Sankar****
-### **SOFTWARE DEVELOPER at SWIFTANT | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
+### **Software Developer at [SWIFTANT](www.swiftant.com) | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
 
-## **About Me**
-
-I'm a highly motivated and detail-oriented software developer with a passion for building scalable and efficient solutions. With [number] years of experience in the industry, I've developed a strong foundation in [programming languages/technologies]. I'm always looking to learn and improve my skills, and I'm excited to share my projects and experiences with you.
+I completed B.E in Computer Science Engineering from [Info Institute of Engineering, Coimbatore](https://www.infoengg.com/).
 
 ## **Skills**
 
@@ -25,6 +23,7 @@ I'm a highly motivated and detail-oriented software developer with a passion for
 ### **Tools**
 
 <<<<<<< HEAD
+
 * **Version Control**: Proficient in using Git and SVN for version control
 * **IDEs**: Experienced in using Visual Studio Code, IntelliJ IDEA, and Eclipse for development
 * **Operating Systems**: Knowledgeable in using Windows, Linux, and macOS for development
@@ -64,7 +63,8 @@ Remember to replace the placeholders with your own information, and customize th
 Note: The `![Header Image](https://via.placeholder.com/1500x500)` code is used to add a header image to your portfolio. You can replace the placeholder URL with your own image URL.
 
 Also, the `![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)` code is used to display your GitHub stats. You can replace `your-username` with your actual GitHub username.
-=======
+======================================================================================================================================================================================================================================
+
 * **Version Control**: Proficient in using Git and SVN for version control
 * **IDEs**: Experienced in using Visual Studio Code, IntelliJ IDEA, and Eclipse for development
 * **Operating Systems**: Knowledgeable in using Windows, Linux, and macOS for development
@@ -106,3 +106,9 @@ Note: The `![Header Image](https://via.placeholder.com/1500x500)` code is used t
 Also, the `![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)` code is used to display your GitHub stats. You can replace `your-username` with your actual GitHub username.
 
 >>>>>>> f3253fce47c20ea6f0bfd5853a948c2bbae84f13
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
