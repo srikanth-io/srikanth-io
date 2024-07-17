@@ -31,40 +31,13 @@ I completed B.E in Computer Science Engineering from [Info Institute of Engineer
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<<<<<<< HEAD
-
-* **Version Control**: Proficient in using Git and SVN for version control
-* **IDEs**: Experienced in using Visual Studio Code, IntelliJ IDEA, and Eclipse for development
-* **Operating Systems**: Knowledgeable in using Windows, Linux, and macOS for development
-
-## **Projects**
-
-### **Project 1: [Project Name]**
-
-* **Description**: Briefly describe the project and its goals
-* **Technologies Used**: List the technologies used in the project
-* **Role**: Describe your role in the project
-* **Link**: Provide a link to the project repository or live demo
-
-### **Project 2: [Project Name]**
-
-* **Description**: Briefly describe the project and its goals
-* **Technologies Used**: List the technologies used in the project
-* **Role**: Describe your role in the project
-* **Link**: Provide a link to the project repository or live demo
-
-## **Stats**
-
 ### **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?srikanth-io=your-srikanth-io&show_icons=true&theme=dark)
 
 ### **Language Stats**
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?srikanth-io=your-srikanth-io&theme=dark)
 
 ### **Trophies**
 
