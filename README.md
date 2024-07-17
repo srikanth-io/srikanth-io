@@ -6,7 +6,6 @@
 
 ### **Software Developer at [SWIFTANT](www.swiftant.com) | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
 
-I completed B.E in Computer Science Engineering from [Info Institute of Engineering, Coimbatore](https://www.infoengg.com/).
 
 ## **Skills**
 
