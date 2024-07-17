@@ -1,5 +1,5 @@
 
-(![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png)
+![Profile Head](https://github.com/srikanth-io/srikanth-io/blob/master/Github%20Header.png)
 
 # **Hello, I'm **Srikanth Sankar****
 ### **SOFTWARE DEVELOPER at SWIFTANT | [Linkedin](https://www.linkedin.com/in/srikanth-io/)**
